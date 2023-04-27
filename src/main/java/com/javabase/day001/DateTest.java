@@ -11,6 +11,7 @@ public class DateTest {
 
         SimpleDateFormat ft = new SimpleDateFormat ("yyyy-MM-dd hh:mm:ss");
         System.out.println ("Time is："+ ft.format (date));
+        System.out.println (date.getTime ());
 
     }
 }
