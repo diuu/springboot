@@ -55,7 +55,6 @@ public class Student {
         System.out.println("姓名：" + student.getName());
         System.out.println("学号：" + student.getId());
         System.out.println("成绩：" + student.getScore());
-        System.out.println ("eee");
     }
     @Override
     public String toString() {
