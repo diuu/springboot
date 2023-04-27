@@ -9,7 +9,6 @@ public class Student {
     private int id;
     private int score;
     private String []student;
-//    private int age;
 
 
     public void setName(String name) {
